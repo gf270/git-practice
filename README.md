@@ -5,3 +5,5 @@ Welcome! This is a repository you can safely make commits to and play around wit
 Danger - do not edit!!!
 
 The quick brown fox jumped on the lazy dog
+
+Birds of a feather fly together.
